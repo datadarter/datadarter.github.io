@@ -1,0 +1,18 @@
+/* Styles for the row */
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* Styles for the columns */
+.column {
+  flex: 50%;
+  padding: 10px;
+}
+
+/* Responsive layout - makes the columns stack on top of each other on small screens */
+@media screen and (max-width: 600px) {
+  .column {
+    flex: 100%;
+  }
+}
