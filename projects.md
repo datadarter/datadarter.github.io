@@ -8,7 +8,7 @@ title: Selected Blog Posts
 <div class="row">
   <div class="column">
     {% for post in site.posts limit:3 %}
-      <h2>{{ post.title }}</h2>
+      <h2>[{{ post.title }}]({{ post.url }})</h2>
       <p>{{ post.excerpt }}</p>
       <a href="{{ post.url }}">Read more</a>
     {% endfor %}
@@ -16,7 +16,7 @@ title: Selected Blog Posts
   
   <div class="column">
     {% for post in site.posts limit:3 offset:3 %}
-      <h2>{{ post.title }}</h2>
+      <h2>[{{ post.title }}]({{ post.url }})</h2>
       <p>{{ post.excerpt }}</p>
       <a href="{{ post.url }}">Read more</a>
     {% endfor %}
