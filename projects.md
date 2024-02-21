@@ -10,7 +10,7 @@ title: Selected Blog Posts
     {% for post in site.posts limit:3 %}
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
       <p>{{ post.excerpt }}</p>
-      <a href="{{ post.url }}">Read more</a>
+      <a href="{{ post.url }}" class="post-read-more">Read more</a>
     {% endfor %}
   </div>
   
@@ -18,7 +18,7 @@ title: Selected Blog Posts
     {% for post in site.posts limit:3 offset:3 %}
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
       <p>{{ post.excerpt }}</p>
-      <a href="{{ post.url }}">Read more</a>
+      <a href="{{ post.url }}" class="post-read-more">Read more</a>
     {% endfor %}
   </div>
 </div>
