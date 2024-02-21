@@ -3,8 +3,8 @@ layout: default
 title: About
 ---
 <h1>About</h1>
-<div style="display: flex;">
-  <div style="flex: 1;">
+<div class="row">
+  <div class="column">
     <p>Kia ora 👋</p>
     <p>I'm Mark.</p>
     <p>I'm a data analyst based in Auckland, New Zealand who:</p>
@@ -15,7 +15,8 @@ title: About
       <li>📊 loves delivering compelling data stories that inform intelligent decision-making</li>
     </ul>
   </div>
-  <div style="flex: 1; display: flex; justify-content: center;">
+  
+  <div class="column">
     <img src="/assets/img/mark-profile.jpg" alt="mark" style="height: 400px; width: 400px;">
   </div>
 </div>
