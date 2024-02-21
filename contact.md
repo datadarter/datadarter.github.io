@@ -7,11 +7,11 @@ title: Contact
 
 Feel free to get in touch with me using any of the following methods:
 
-## Email
+### Email
 
 You can email me at [your_email@example.com](mailto:your_email@example.com).
 
-## Social Media
+### Social Media
 
 You can also connect with me on social media:
 
