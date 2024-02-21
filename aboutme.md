@@ -7,11 +7,11 @@ title: About
   <div class="column">
     <p>Kia ora 👋</p>
     <p>I'm Mark.</p>
-    <p>I'm a data analyst based in Auckland, New Zealand who:</p>
+    <p>I'm a data analyst and BI developer based in Auckland, New Zealand who:</p>
     <ul>
       <li> 🔎 delves deep into all different kinds of data, structured and unstructured - text, graph, numerical etc.</li>
       <li> 🎯 loves solving complex problems and learning about new domains</li>
-      <li> 🔨 built sophisticated data solutions in tertiary education</li>
+      <li> 🔨 built sophisticated BI solutions in tertiary education</li>
       <li> 📊 loves delivering compelling data stories that inform intelligent decision-making</li>
     </ul>
   </div>
