@@ -6,7 +6,8 @@ title: About
 <div style="display: flex;">
   <div style="flex: 1;">
     <p>Kia ora 👋</p>
-    <p>I'm Mark, a data analyst who:</p>
+    <p>I'm Mark.</p>
+    <p>I'm a data analyst based in Auckland, New Zealand who:</p>
     <ul>
       <li>🔎 delves deep into all different kinds of data, structured and unstructured - text, graph, numerical etc.</li>
       <li>🎯 loves solving complex problems and learning about new domains</li>
