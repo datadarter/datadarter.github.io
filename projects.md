@@ -2,6 +2,7 @@
 layout: default
 title: Selected Blog Posts
 ---
+# Projects
 
 <div class="row">
   <div class="column">
