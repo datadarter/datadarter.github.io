@@ -3,6 +3,8 @@ layout: default
 title: Contact
 ---
 
+# Contact
+
 Feel free to get in touch with me using any of the following methods:
 
 ## Email
