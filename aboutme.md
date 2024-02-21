@@ -15,6 +15,6 @@ title: About
     </ul>
   </div>
   <div style="flex: 1; display: flex; justify-content: center;">
-    <img src="/assets/img/mark-profile.jpg" alt="mark" style="height: 200px; width: 200px;">
+    <img src="/assets/img/mark-profile.jpg" alt="mark" style="height: 400px; width: 400px;">
   </div>
 </div>
