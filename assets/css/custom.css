@@ -10,6 +10,11 @@
   padding: 10px;
 }
 
+.column img {
+    display: block;
+    margin: 0 auto; /* This will centre the image horizontally */
+  }
+
 /* Responsive layout - makes the columns stack on top of each other on small screens */
 @media screen and (max-width: 600px) {
   .column {
