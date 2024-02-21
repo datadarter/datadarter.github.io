@@ -2,9 +2,9 @@
 layout: default
 title: About
 ---
+<h1>About</h1>
 <div style="display: flex;">
   <div style="flex: 1;">
-    <h1>About</h1>
     <p>Kia ora 👋</p>
     <p>I'm Mark, a data analyst who:</p>
     <ul>
