@@ -2,6 +2,7 @@
 layout: default
 title: About
 ---
+# About
 
 Kia ora 👋
 
