@@ -8,16 +8,16 @@ title: Selected Blog Posts
 <div class="row">
   <div class="column">
     {% for post in site.posts limit:3 %}
-      ## [{{ post.title }}]({{ post.url }})  
-      {{ post.excerpt }}
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <p>{{ post.excerpt }}</p>
       <a href="{{ post.url }}">Read more</a>
     {% endfor %}
   </div>
   
   <div class="column">
     {% for post in site.posts limit:3 offset:3 %}
-      ## [{{ post.title }}]({{ post.url }})  
-      {{ post.excerpt }}
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <p>{{ post.excerpt }}</p>
       <a href="{{ post.url }}">Read more</a>
     {% endfor %}
   </div>
