@@ -14,7 +14,7 @@ title: About
       <li>📊 loves delivering compelling data stories that inform intelligent decision-making</li>
     </ul>
   </div>
-  <div style="flex: 1; display: flex; justify-content: flex-end;">
+  <div style="flex: 1; display: flex; justify-content: center;">
     <img src="/assets/img/mark-profile.jpg" alt="mark" style="height: 200px; width: 200px;">
   </div>
 </div>
