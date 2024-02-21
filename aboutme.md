@@ -14,4 +14,4 @@ I'm Mark, a data analyst who:
 📊 loves delivering compelling data stories that inform intelligent decision-making
 
 
-![mark](/assets/img/mark-profile.jpg){:height="200px" width="200px"}.
+![mark](/assets/img/mark-profile.jpg){:height="200px" width="200px"}
