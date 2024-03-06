@@ -7,6 +7,4 @@ share-img: /assets/img/nz_parliament.jpg
 tags: [powerbi,visualisation]
 author: Mark Johnstone
 ---
-
 ![MPs' expenses](https://datadarter.nz/assets/img/mp_expenses.png){: .mx-auto.d-block :}
-[Visit GitHub!](www.github.com)
