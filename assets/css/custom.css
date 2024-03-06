@@ -21,3 +21,8 @@
     flex: 100%;
   }
 }
+
+/* Overrides default white colour*/
+.fa-inverse {
+    color: #000000;
+}
