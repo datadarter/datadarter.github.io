@@ -16,13 +16,15 @@ The graphic below shows how parties' spending per seat trends over time, spendin
 
 ## Key takeaways
 
+
 * On a per-seat per-year basis, Mana has spent the most, followed by Te Pāti Māori and National. These parties are/were very electorate-focused, so that may be one factor contributing to their higher level of spending.
 * The Greens spent the least out of all the major parties per-seat per-year.
 * Spending for all parties was reduced during the COVID-19 pandemic.
 * National tends to outspend Labour both in Government and in Opposition.
 * Ministers, Leaders of the Opposition, and party leaders tend to be the largest spenders in their parties, although there are exceptions.
 
-## Notes:
+## Notes
+
 
 * Records started in Q3 2009, so data for only half the year is present.
 * Spending will vary considerably depending on whether a Member is a Minister, Leader of the Opposition, or a party leader.
