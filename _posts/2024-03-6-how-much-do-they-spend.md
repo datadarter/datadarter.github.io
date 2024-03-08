@@ -33,4 +33,5 @@ The graphic below shows how parties' spending per seat trends over time, spendin
 * The data for 2023 includes Ministerial spending for the Sixth Labour Government only.
 
 
+_Click the image to view full size_
 <a href="https://datadarter.nz/assets/img/mp_expenses.png" target="_blank">![MPs' expenses](https://datadarter.nz/assets/img/mp_expenses.png){: .mx-auto.d-block :}</a>
