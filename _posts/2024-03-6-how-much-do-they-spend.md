@@ -14,5 +14,21 @@ This got me thinking - what do MPs usually spend? There is often public outrage 
 
 The graphic below shows how parties' spending per seat trends over time, spending for the highest-spending MP for each party, and what each MP's average spend is across their time in Parliament.
 
+## Key takeaways
+
+* On a per-seat per-year basis, Mana has spent the most, followed by Te Pāti Māori and National. These parties are/were very electorate-focused, so that may be one factor contributing to their higher level of spending.
+* The Greens spent the least out of all the major parties per-seat per-year.
+* Spending for all parties was reduced during the COVID-19 pandemic.
+* National tends to outspend Labour both in Government and in Opposition.
+* Ministers, Leaders of the Opposition, and party leaders tend to be the largest spenders in their parties, although there are exceptions.
+
+## Notes:
+
+* Records started in Q3 2009, so data for only half the year is present.
+* Spending will vary considerably depending on whether a Member is a Minister, Leader of the Opposition, or a party leader.
+* Wellington-based MPs are not eligible for Wellington accommodation expenses.
+* Expenditure for overseas travel was excluded - certain Members such as Ministers for Foreign Affairs tend to have very high overseas travel expenditure which can skew the data.
+* The data for 2023 includes Ministerial spending for the Sixth Labour Government only.
+
 
 <a href="https://datadarter.nz/assets/img/mp_expenses.png" target="_blank">![MPs' expenses](https://datadarter.nz/assets/img/mp_expenses.png){: .mx-auto.d-block :}</a>
